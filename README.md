@@ -8,6 +8,8 @@
 |---|---|---|
 | `online_retail_ii.csv.gz` | Online Retail II (107만 거래) | [UCI ML Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii) (CC BY 4.0) |
 | `cookie_cats.csv` | Cookie Cats 모바일 게임 A/B 테스트 | [Kaggle: Mobile Games A/B Testing](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing) |
+| `hour.csv` | Capital Bikeshare 시간별 대여·날씨 (17,379시간) | [UCI ML Repository](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) (CC BY 4.0) |
+| `garments_worker_productivity.csv` | 봉제공장 팀별 일별 생산성 (1,197행) | [UCI ML Repository](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees) (CC BY 4.0) |
 | `telco.csv` | Telco Customer Churn | IBM 샘플 데이터셋 |
 | `wholesale_customers.csv` | Wholesale Customers (440곳) | [UCI ML Repository](https://archive.ics.uci.edu/dataset/292/wholesale+customers) (CC BY 4.0) |
 | `aps/aps_failure_training_set.csv` `aps/aps_failure_test_set.csv` | APS Failure at Scania Trucks (7.6만 대) | [UCI ML Repository](https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks) (원본 첫 20줄 고지문 유지) |

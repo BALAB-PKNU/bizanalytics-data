@@ -15,6 +15,10 @@
 | `aps/aps_failure_training_set.csv` `aps/aps_failure_test_set.csv` | APS Failure at Scania Trucks (7.6만 대) | [UCI ML Repository](https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks) (원본 첫 20줄 고지문 유지) |
 | `m5_ca1_subset.pkl` | M5 Forecasting (Walmart) CA_1 매장 300품목 서브셋 | [M5 Competition](https://www.kaggle.com/competitions/m5-forecasting-accuracy) 공개 데이터의 교육용 발췌 |
 | `flotation_hourly.csv` | 광산 부유선별 실공정 시간별 집계 (4,097행) | [Kaggle: Quality Prediction in a Mining Process](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process) |
+| `instacart_*.csv.gz` (5개) | Instacart 장바구니 — 사용자 8,000명 표집(주문 121,590건, 주문-품목 123만 행) | [Kaggle: Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) |
+| `secom.csv.gz` | SECOM 반도체 웨이퍼 검사 1,567건 × 센서 590개 | [UCI ML Repository](https://archive.ics.uci.edu/dataset/179/secom) (CC BY 4.0) |
+| `hillstrom.csv` | 이메일 캠페인 무작위 실험 64,000명(남성·여성·무발송 3군) | [MineThatData E-Mail Analytics Challenge](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html) |
+| `backblaze_st12000_q1_2024.csv.gz` | 데이터센터 디스크 상태 기록 — ST12000NM0008 19,511대 × 91일(고장 144건) | [Backblaze Drive Stats](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data) |
 | `criteo_uplift_sample.pkl` | Criteo Uplift Modeling v2.1 계통추출 1/10 서브샘플 | [Criteo AI Lab](https://ailab.criteo.com/criteo-uplift-prediction-dataset/) |
 | `supply_chain_logistics_problem.xlsx` | Brunel 물류 네트워크 (9,215 주문) | [figshare](https://doi.org/10.6084/m9.figshare.7558679) |
 | `citibike_station_information.json` `citibike_station_status.json` | Citi Bike GBFS 정류장 스냅샷 | [Citi Bike System Data](https://citibikenyc.com/system-data) (수업 재현성을 위한 고정 스냅샷) |

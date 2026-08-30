@@ -16,6 +16,9 @@
 | `m5_ca1_subset.pkl` | M5 Forecasting (Walmart) CA_1 매장 300품목 서브셋 | [M5 Competition](https://www.kaggle.com/competitions/m5-forecasting-accuracy) 공개 데이터의 교육용 발췌 |
 | `flotation_hourly.csv` | 광산 부유선별 실공정 시간별 집계 (4,097행) | [Kaggle: Quality Prediction in a Mining Process](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process) |
 | `instacart_*.csv.gz` (5개) | Instacart 장바구니 — 사용자 8,000명 표집(주문 121,590건, 주문-품목 123만 행) | [Kaggle: Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) |
+| `dunnhumby_*.csv(.gz)` (3개) | Dunnhumby The Complete Journey — 가구 2,500곳의 2년치 거래 259만 행 + 품목 마스터 + 인구통계(801가구) | [Kaggle 미러](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey) (원 출처 dunnhumby Source Files) |
+| `vn1_*.csv.gz` (3개) | VN1 수요예측 대회 — 계열 15,053개 주간 판매·가격 170주 + 후속 13주 홀드아웃 | [VN1 Forecasting Challenge 2024](https://www.datasource.ai/en/home/data-science-competitions-for-startups/vn1-forecasting-accuracy-challenge-phase-1) (Kaggle 미러) |
+| `steel_energy.csv` | 광양 제철소 15분 단위 전력 사용·역률·부하구분 35,040행 | [UCI ML Repository](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption) (CC BY 4.0) |
 | `secom.csv.gz` | SECOM 반도체 웨이퍼 검사 1,567건 × 센서 590개 | [UCI ML Repository](https://archive.ics.uci.edu/dataset/179/secom) (CC BY 4.0) |
 | `hillstrom.csv` | 이메일 캠페인 무작위 실험 64,000명(남성·여성·무발송 3군) | [MineThatData E-Mail Analytics Challenge](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html) |
 | `backblaze_st12000_q1_2024.csv.gz` | 데이터센터 디스크 상태 기록 — ST12000NM0008 19,511대 × 91일(고장 144건) | [Backblaze Drive Stats](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data) |
